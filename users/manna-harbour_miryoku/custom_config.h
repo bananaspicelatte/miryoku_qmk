@@ -5,6 +5,14 @@
 
 #pragma once
 
+#define TAPPING_TERM 250
+
+#define TAP_HOLD_CAPS_DELAY 200
+
+#define IGNORE_MOD_TAP_INTERRUPT
+
+#define PERMISSIVE_HOLD
+
 #define XXX KC_NO
 
 #define MIRYOKU_CLIPBOARD_MAC
